@@ -1,3 +1,4 @@
+import anvil.facebook.auth
 from anvil import open_form
 from . import emitter
 

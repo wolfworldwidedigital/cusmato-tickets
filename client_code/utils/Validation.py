@@ -1,3 +1,4 @@
+import anvil.facebook.auth
 """This module is responsible for validating user inputs.
 
 It is used to verify inputs by both client code and server code

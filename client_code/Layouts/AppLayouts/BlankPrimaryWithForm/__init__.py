@@ -1,3 +1,4 @@
+import anvil.facebook.auth
 from ._anvil_designer import BlankPrimaryWithFormTemplate
 
 class BlankPrimaryWithForm(BlankPrimaryWithFormTemplate):

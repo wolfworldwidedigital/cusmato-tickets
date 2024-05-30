@@ -1,3 +1,4 @@
+import anvil.facebook.auth
 class _EventEmitter:
   def __init__(self):
     self.subscribers = {}
