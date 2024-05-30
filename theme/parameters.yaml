@@ -66,17 +66,17 @@ color_scheme:
   - {name: Grey 800, color: '#0e0b0b'}
   - {name: Grey 900, color: '#070605'}
   - {name: Grey 950, color: '#030303'}
-  - {name: Lilac 100, color: '#e5e3f8'}
-  - {name: Lilac 200, color: '#cbc6f0'}
-  - {name: Lilac 300, color: '#b2aae9'}
-  - {name: Lilac 400, color: '#988de1'}
-  - {name: Lilac 500, color: '#7e71da'}
-  - {name: Lilac 600, color: '#655aae'}
-  - {name: Lilac 700, color: '#4c4483'}
-  - {name: Lilac 750, color: '#3f396d'}
-  - {name: Lilac 800, color: '#322d57'}
-  - {name: Lilac 850, color: '#262241'}
-  - {name: Lilac 900, color: '#19172c'}
+  - {name: Blue 100, color: '#D0E7FF'}
+  - {name: Lilac 200, color: '#A1CFFF'}
+  - {name: Lilac 300, color: '#72B7FF'}
+  - {name: Lilac 400, color: '#439FFF'}
+  - {name: Lilac 500, color: '#147FFF'}
+  - {name: Lilac 600, color: '#0063E1'}
+  - {name: Lilac 700, color: '#004BA8'}
+  - {name: Lilac 750, color: '#004090'}
+  - {name: Lilac 800, color: '#003370'}
+  - {name: Lilac 850, color: '#002758'}
+  - {name: Lilac 900, color: '#001B38'}
   - {name: Error 100, color: '#fed9d5'}
   - {name: Error 200, color: '#feb2ab'}
   - {name: Error 300, color: '#fd8c82'}
